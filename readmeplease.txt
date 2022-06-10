@@ -1,0 +1,1 @@
+ignore scripts in uploaded
